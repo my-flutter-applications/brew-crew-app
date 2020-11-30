@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "958246581728",
+    "firebase_url": "https://cora-brew-crew.firebaseio.com",
+    "project_id": "cora-brew-crew",
+    "storage_bucket": "cora-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958246581728:android:9fc504510b03d8491ae785",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958246581728-p23rpjctu9mfoavthjgkhpiltvbisrpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGExNNaikn-8UvAkzjXMcsQYaTDbLgQ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958246581728-p23rpjctu9mfoavthjgkhpiltvbisrpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

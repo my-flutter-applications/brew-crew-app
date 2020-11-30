@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>958246581728-gidp343to271uqq7kh5ill68ajgqheet.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.958246581728-gidp343to271uqq7kh5ill68ajgqheet</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCVWTw0sGq0dW90et6LhaPa9RnwD-8FVa4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>958246581728</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.brewCrew</string>
+	<key>PROJECT_ID</key>
+	<string>cora-brew-crew</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cora-brew-crew.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:958246581728:ios:a6212382a96b36ee1ae785</string>
+	<key>DATABASE_URL</key>
+	<string>https://cora-brew-crew.firebaseio.com</string>
+</dict>
+</plist>
